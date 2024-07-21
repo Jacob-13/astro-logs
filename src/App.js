@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Headline>Never Lose a Night of Tracking</Headline>
-      <Subheadline>With the all in one digital log book accessible anywhere</Subheadline>
+      <Subheadline>With the digital log book accessible anywhere</Subheadline>
       <Heroimage />
       <Herocta />
     </>
